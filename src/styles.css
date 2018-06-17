@@ -1,1 +1,37 @@
-/* You can add global styles to this file, and also import other style files */
+
+#particles-js {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  z-index:0;
+}
+
+.c1{
+  background-image: url(assets/images/background/1.jpg);
+}
+
+.c2 {
+  background-image: url(assets/images/background/2.jpg);
+}
+
+.c3 {
+  background-image: url(assets/images/background/3.jpg);
+}
+
+.c4 {
+  background-image: url(assets/images/background/4.jpg);
+}
+
+.c5 {
+  background-image: url(assets/images/background/5.png);
+}
+
+.overlay{
+  position: relative;
+}
